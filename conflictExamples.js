@@ -1,2 +1,9 @@
 let a = 90;
-let c = 100
+<<<<<<< HEAD
+let b = 90;
+=======
+let b = 91;
+>>>>>>> feature
+if (a === b {
+    console.log("a and b are equal");
+}
