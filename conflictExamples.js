@@ -1,2 +1,2 @@
-let a = 7;
+let a = 100;
 let c = 100
